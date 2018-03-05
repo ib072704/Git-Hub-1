@@ -3,17 +3,14 @@
 "Title":"How a Sword is Forged",
 "History": "Blacksmithing is an ancient art in which metal is heated and crafted into tools, weapons and/or art. It is a form of metalsmithing. Blacksmiths create objects from wrought iron or steel by heating it until it is soft enough to work into different shapes and creations.",
 
-"Composition":"What are they usually made of? Iron is typically used when forging a sword due to its various properties. Iron is harder than most substances, yet is not brittle like stone, can handle high temperatures and after applying adequate heat, it is relatively easy to shape it into different forms. As an added bonus, iron is pretty abundant and makes up 5% of the earth's crust  and is easy to come by.",
+"Composition":"What are they usually made of? Iron is typically used when forging a sword due to its various properties. Iron is harder than most substances, yet is not brittle like stone, can handle high temperatures and after applying adequate heat, it is relatively easy to shape it into different forms. As an added bonus, iron is pretty abundant and makes up 5% of the earth's crust  and is easy to come by."
 }],
 
 "Planning":[{
 "Design":"Design The Blade Blacksmithing is a form of engineering, and as such, the design process must be incorporated. Before the forging process begins, the desired blade must be designed and planned out before hand to ensure a quality product. The blade dimensions, material, and purpose need to be decided beforehand. In its essence a sword is a sharpened piece of metal with a handle and is usually 24 to 48 inches in length. The tip is usually tapered to a point. The design of the blade determines the forging process and blade material. If you were creating a slim blade like a rapier, it would need to be flexible, and if you were ,making a broadsword, it would need to focus on hardness and strength. There is a vast amount of blade styles that can be used, and each has a certain forge technique that would work best for its specific needs; a blacksmith must keep this in mind.",
 
-"cMetal":"Choose a Metal/Alloy Iron is alloyed with carbon to create steel. The right amount of carbon is needed to make the stee hard enough to take an edge and hold it, however, if too much carbon is added, the metal will be hard and brittle. You want your steel to be hard, but not brittle, flexible, but not weak. A blacksmith can use regular steel to craft the sword, but could also use another metal/s in the steel alloy if they want the blade to have a specific characteristics. Other metals like chromium or copper can be added to the steel alloy to create these specific characteristics. For example, stainless steel is steel that has at least 10.5 percent chromium content. Chromium creates a thin layer of oxide on the surface of the blade. This layer of oxide, called the passive layer, prevents corrosion of the steel. Steel alloys are commonly used in creating a blade.",
-
-
-
-}]
+"cMetal":"Choose a Metal/Alloy Iron is alloyed with carbon to create steel. The right amount of carbon is needed to make the stee hard enough to take an edge and hold it, however, if too much carbon is added, the metal will be hard and brittle. You want your steel to be hard, but not brittle, flexible, but not weak. A blacksmith can use regular steel to craft the sword, but could also use another metal/s in the steel alloy if they want the blade to have a specific characteristics. Other metals like chromium or copper can be added to the steel alloy to create these specific characteristics. For example, stainless steel is steel that has at least 10.5 percent chromium content. Chromium creates a thin layer of oxide on the surface of the blade. This layer of oxide, called the passive layer, prevents corrosion of the steel. Steel alloys are commonly used in creating a blade."
+}],
 
 "ForgeP":[{
 "Forge":"Forging process
@@ -28,15 +25,15 @@ Steel becomes red hot and glows orange at approximately 1800 F (982 C). The majo
 Once the steel is properly heated, the bladesmith can begin to “draw out the blade”. When a blacksmith draws out a blade, he flattens the metal out into basic sword shape. Unless the Blade smith had cut and grinded the stock (piece of steel usually in block form)to basic shape beforehand. The next step is to taper the blade. Tapering the blade is essential creating the tang( End of the blade that goes into the handle) and tip. The blade smith would hammer the metal at an angle, starting from where the taper begins and continuing to the end of the blade. The blacksmith will work the blade section by section; heating and shaping different section of the blade at a time. 
 
 Periodically the bladesmith will normalize the steel. This is when the blade is heated and allowed to cool to smooth grain (crystalline structure ). This process decreases the amount of stress caused by irregularities in the composition of the blade and ensures that the grain is uniform throughout the entirety of the blade. The next step is annealing the blade. When annealing the blade, the steel is heated to the point of austenization (the iron and carbon molecules begin to mix) and cooled down very gradually, usually with some form of insulating material to slow the cooling process. Annealing is very similar to normalizing, but the reason behind it is altogether different. The goal of annealing is to soften the steel for easier grinding/cutting and polishing. After the appropriate grinding and Polishing are completed, next important step is tempering the blade.
-",
-}]
+"
+}],
 
 "tBlade":[{
 "Quench":"Tempering the Blade. Tempering the blade is key to having a blade that is hard and strong. First you must quench it. For this part, you want the blade to be heated completely and evenly. Even distribution of the heat is very important - show caution when heating the thinner parts of the blade like the tip as the it is thinner and will heat quicker. Once the blade is heated to the proper temperature and the heat is evenly distributed it's ready to be quenched. Quenching is when the red hot blade is thrust into a tank of a cooling solution. Water is sometimes used, but is not recommended as it cools the blade rapidly and cooling the red hot metal too quickly can cause the blade to become brittle and crack or even shatter. This is why oil is primarily used. This could be motor oil, used transmission fluid or vegetable oil. If parts of the  blade does not cool down evenly it can and most likely will warp or fracture - this is where an even heat treatment comes in handy. The blade also cannot be left in the oil for too long or removed prematurely. There are general guidelines for how long the blade needs to be submersed based on the type of steel , thickness and the hardening medium in the tank. *Fun Fact : Quenching traps cementite within the ferrite and creates a very hard steel called martensite.
 ",
 
-"dHard":" Next use rough grit emory paper to clean the scale(Rough substance gets on the blade during quenching) off of it so you can look at the color of it while tempering. After this the bladesmith would differentially heat the blade. This is where they reheat the blade and heat the spine and edge to different temperatures to produce a blade that has a hard edge, but soft back to promote flexibility. Only on thing to do now, finish and stylize the blade.",
-}]
+"dHard":" Next use rough grit emory paper to clean the scale(Rough substance gets on the blade during quenching) off of it so you can look at the color of it while tempering. After this the bladesmith would differentially heat the blade. This is where they reheat the blade and heat the spine and edge to different temperatures to produce a blade that has a hard edge, but soft back to promote flexibility. Only on thing to do now, finish and stylize the blade."
+}],
 
 "Finish":[{
 "Handle":"Finish and Stylize the blade
@@ -45,7 +42,7 @@ The bladesmith now has a strong. hard, and fully completed blade. Fin.
 ",
 
 "Thanks":"I want to sincerely thank you for visiting and reading my website. I hope that you learned somthing and that my website impacted you in someway.
-Sincerely, Isaiah Barze.  ",
+Sincerely, Isaiah Barze.  "
 }]
 }
 
